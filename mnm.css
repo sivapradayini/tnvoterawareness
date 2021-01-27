@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+}
+header{
+    padding: 0.5cm;
+    width: 100%;
+    height: 4cm;
+    background-color: rgb(12, 248, 32);
+}
+#logo{
+    padding-left: 10px;
+    height:4cm ;
+    width: 5cm;
+    
+    border: darkred 1px;
+    border-radius: 10px;
+}
+#li{
+    width: 100%;
+    height:0.5cm ;
+    background-color: darkcyan;
+
+}
+.three{
+    width: 100%;
+    height: 12cm;
+}
+.monkey{
+    width: 100%;
+}
+
+
+.h3a{
+    font-size: 30px;
+    font-family: cursive;
+    text-shadow: yellowgreen;
+}
+h3{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy ;
+    text-shadow: 1px 2px green;
+}
+.size{
+    width: 4cm;
+    height: 1.9cm;
+    background-color: green;
+    align-content: center;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-size: xx-large;
+    align-items: center;
+}
+.poll{
+    width:100%;
+    height:2cm;
+    align-items: center;
+    align-content: center;
+    
+    
+}
+h1{
+    color: darkred;
+}
+.qus{
+    width:21cm;
+
+}
+.ts{
+    width: 9cm;
+    height: 6cm;
+}
+#log{
+    width: 9cm;
+    height: 4cm;
+}
