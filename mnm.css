@@ -8,11 +8,11 @@ header{
     background-color: rgb(12, 248, 32);
 }
 #logo{
-    padding-left: 10px;
+    padding-left: 1px;
     height:5cm ;
     width: 6cm;
     
-    border: darkred 1px;
+    border: darkred 1px double;
     border-radius: 10px;
 }
 #li{
