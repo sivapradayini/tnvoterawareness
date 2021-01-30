@@ -12,6 +12,13 @@ header{
     height: 4cm;
     background-color: rgb(12, 248, 32);
 }
+
+img {
+  display: block;
+  margin-left: auto;
+   margin-right: auto;
+}
+
 #logo{
    
     height:4.6cm ;
